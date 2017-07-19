@@ -1,0 +1,95 @@
+table {
+  display:inline-block;
+  width:100%;
+  font-size:30px;
+}
+#homepage{
+  position:absolute;
+}
+#homepagebody {
+  background-color:#ffdab9;
+  font-size:25px;
+position:absolute;
+}
+
+#hometitle {
+font-size:45px;
+}
+
+#contactstitle{
+  font-size:60px;
+}
+#contactsbody{
+  background-color:#ffdab9;
+}
+#Tipstitle{
+  font-size:60px;
+}
+#tipsbody{
+   background-color:#ffdab9;
+}
+.tipspicture{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:600px;
+  height:300px;
+}
+
+#helpfulwebsites{
+  font-size:40px;
+}
+
+.helpfullinks{
+  font-size:40px;
+  text-align:center;
+}
+
+.contactspic{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  width:600px;
+  height:400px;
+}
+
+#emailsub{
+  font-size:50px;
+  text-align:center;
+  margin-top:30px;
+}
+.emailsubcolor{
+background-color:yellow;
+}
+.email{
+  text-align:center;
+  font-size:30px;
+}
+#phonetitle{
+  text-align:center;
+  font-size:50px;
+  margin-top:50px;
+}
+.phone{
+  text-align:center;
+  font-size:30px;
+}
+
+.homepagetext{
+  text-align:center;
+  font-size:50px;
+  margin-top:50px;
+}
+.feedback{
+  font-size:45px;
+  margin-top:50px;
+  text-align:center;
+}
+.feelfreetocontact{
+  text-align:center;
+  font-size:40px;
+  margin-top:50px;
+}
+
+
+
