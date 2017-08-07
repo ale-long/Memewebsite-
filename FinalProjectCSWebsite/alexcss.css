@@ -1,0 +1,145 @@
+#homepagetitle{
+	text-align:center;
+	font-size: 50px;
+}
+#homepagebody{
+	background-color: #93a7f9;
+}
+#adventure{
+	text-align:center;
+	font-size:35px;
+	padding-top:50px;
+}
+#section{
+	font-size:20px;
+}
+
+.homepicture{
+	display:block;
+	margin: 0 auto;
+}
+#feedback{
+	text-align:center;
+	font-size:30px;
+	font-weight:bold;
+}
+#careertitle{
+	text-align:center;
+	font-size:50px;
+	font-weight:bold;
+}
+#companydescription{
+	text-align:center;
+	font-size:30px;
+}
+#careerpicture{
+	display:block;
+	margin:0 auto;
+}
+#openpositions{
+	text-align:center;
+	font-size:40px;
+	font-weight: bold;
+	text-decoration:underline;
+}
+#memecook{
+	display:block;
+	float:right;
+	width:450px;
+	position:absolute;
+	bottom:10px;
+}
+#security{
+	float:right;
+	width:400px;
+	height:300px;
+	position:absolute;
+	right:50px;
+	bottom:10px;
+}
+#manager{
+	float:right;
+	width:400px;
+	height:300px;
+	position:absolute;
+	right:50px;
+	top:750px;
+}
+#custodian{
+	display:block;
+	float:right;
+	width:450px;
+	position:absolute;
+	top:750px;
+
+}
+#startedsubtitle{
+	text-align:center;
+	font-size:35px;
+	font-weight:bold;
+	padding-top:50px;
+}
+#howwestarted{
+	text-align:center;
+	font-size:35px;
+	font-weight:bold;
+	padding-top:50px;
+}
+#thirst{
+	display:block;
+	margin:0 auto;
+}
+#dabber{
+	display:block;
+	margin:0 auto;
+	width:500px;
+	float:left;
+	height:400px;
+}
+#startedfromthebottom{
+	display:block;
+	margin:0 auto;
+	width:600px;
+}
+#sourcespic{
+	display:block;
+	margin:0 auto;
+	width:500px;
+	padding-top:50px;
+}
+#sources{
+	text-align:center;
+	font-size:20px;
+}
+#doge{
+	display:block;
+	margin:0 auto;
+	width:500px;
+	padding-top:50px;
+}
+#emailsub{
+	text-align:center;
+	font-size:30px;
+	text-decoration:underline;
+
+}
+#emailsubd{
+	text-align:center;
+	font-size:25px;
+	padding-top:5px;
+}
+#phone{
+	padding-top:5px;
+	text-align:center;
+	font-size:30px;
+	text-decoration:underline;
+}
+#phoned{
+	padding-top:5px;
+	text-align:center;
+	font-size:25px;
+}
+#warning{
+	text-align:center;
+	font-size:25px;
+}
